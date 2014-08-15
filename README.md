@@ -1,4 +1,4 @@
-networking
+Networking
 ==========
 
-Network Programming with Python
+Network Programming 
