@@ -1,4 +1,4 @@
 Networking
 ==========
 
-Network Programming 
+Python's core networking library.
