@@ -4,9 +4,6 @@ import socket
 
 class LocalMachineInfo(object):
     def __init__(self):
-        ''' Shows the Local Machine's Information
-        (Hostname and IP adress)'''
-
         host_name = socket.gethostname()
         ip_adress = socket.gethostbyname(host_name)
         print('Host name: %s' %host_name)
